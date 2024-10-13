@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe514391.css",
+    "main.js": "/static/js/main.4008fd48.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/catrik1.png": "/static/media/catrik1.f7e26c6806f3b355cccb.png",
+    "static/media/bg-home1.png": "/static/media/bg-home1.bcfb322f863866dc142a.png",
+    "static/media/logo.svg": "/static/media/logo.a9f6bbf4ee043fa333c3ce354625d088.svg",
+    "static/media/gamelan_2.png": "/static/media/gamelan_2.54da8c8e91743eb2d99b.png",
+    "static/media/saron.jpg": "/static/media/saron.a335ec576ea4cbea4d46.jpg",
+    "static/media/jengglong.jpg": "/static/media/jengglong.5a250ac2e4510ce29648.jpg",
+    "static/media/gamelan_1.png": "/static/media/gamelan_1.127669f14ad9d6a5e539.png",
+    "static/media/penclon.jpg": "/static/media/penclon.b70ff57eb5dcef95ed89.jpg",
+    "static/media/thumb2.png": "/static/media/thumb2.22606fc303b18e7685b7.png",
+    "static/media/goong.jpg": "/static/media/goong.4420f5a2f3f15f6dcb90.jpg",
+    "static/media/thumb1.png": "/static/media/thumb1.d3fdc30f9fc06c1050de.png",
+    "static/media/thumb3.png": "/static/media/thumb3.d3f0cf48a1bd5a28b4c5.png",
+    "static/media/thumb4.png": "/static/media/thumb4.baed1441ddc3be27dead.png",
+    "static/media/bonang.jpg": "/static/media/bonang.10c9883552cb41c5e1dd.jpg",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "main.fe514391.css.map": "/static/css/main.fe514391.css.map",
+    "main.4008fd48.js.map": "/static/js/main.4008fd48.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe514391.css",
+    "static/js/main.4008fd48.js"
+  ]
+}
