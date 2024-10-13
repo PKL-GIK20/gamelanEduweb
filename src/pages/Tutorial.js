@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { Container, Modal, Button } from "react-bootstrap";
-import video1 from "../Assets/Video/video1.mp4"; // Video lokal
-import video2 from "../Assets/Video/video2.mp4";
-import video3 from "../Assets/Video/video3.mp4";
-import video4 from "../Assets/Video/video4.mp4";
+// import video1 from "../Assets/Video/video1.mp4"; // Video lokal
+// import video2 from "../Assets/Video/video2.mp4";
+// import video3 from "../Assets/Video/video3.mp4";
+// import video4 from "../Assets/Video/video4.mp4";
 import thumbnailImage from "../Assets/Projects/thumb1.png"; // Gambar thumbnail
 import thumb2 from "../Assets/Projects/thumb2.png";
 import thumb3 from "../Assets/Projects/thumb3.png";
@@ -37,25 +37,25 @@ function Tutorial() {
     {
       title: "Tabuhan Kulu-Kulu Bonang",
       description: "Video ini menjelaskan teknik dasar dalam memainkan instrumen Saron pada gamelan, termasuk cara memukul dan memposisikan alat.",
-      url: video1,
+      url: "https://www.youtube.com/embed/_v9noz2zXpA",
       thumbnail: thumbnailImage,
     },
     {
       title: "Tabuhan Goong Embat Sawilen",
       description: "Pelajari teknik memainkan Bonang pada gamelan, mencakup pukulan dasar dan kombinasi tabuhan untuk lagu tradisional.",
-      url: video2,
+      url: "https://www.youtube.com/embed/_v9noz2zXpA",
       thumbnail: thumb2,
     },
     {
       title: "Tabuhan Saron Sinyur",
       description: "Tutorial tentang cara memainkan Jenglong dengan benar, fokus pada irama dasar dan pemahaman pola pukulan.",
-      url: video3,
+      url: "https://www.youtube.com/embed/_v9noz2zXpA",
       thumbnail: thumb3,
     },
     {
       title: "Pola Tabuh Kulu-Kulu Saron",
       description: "Panduan langkah demi langkah dalam memainkan Goong, mencakup penggunaan alat pukul dan teknik memperkuat suara.",
-      url: video4,
+      url: "https://www.youtube.com/embed/_v9noz2zXpA",
       thumbnail: thumb4,
     },
   ];
